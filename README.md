@@ -17,7 +17,7 @@ python manage.py makemigrations  # Pour voir les changements
 python manage.py migrate         # Pour appliquer les changements
 ```
 
-Enfin, lancez le serveur de développement Django :
+Enfin, lancez le serveur de développement Django et React:
 
 ```bash
 python manage.py runserver
