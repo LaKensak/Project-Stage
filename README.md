@@ -73,6 +73,12 @@ Installez React Router pour la gestion des routes :
 npm install react-router-dom
 ```
 
+Si il y a une erreur : 
+``` bash
+npm install react@17 react-dom@17
+npm install @material-ui/core
+```
+
 Enfin, lancez le serveur de développement Django et React:
 
 ```bash
