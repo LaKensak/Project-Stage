@@ -21,6 +21,7 @@ Enfin, lancez le serveur de développement Django :
 
 ```bash
 python manage.py runserver
+npm run dev
 ```
 
 ## Configuration de NPM & du Frontend
