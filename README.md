@@ -73,6 +73,13 @@ Installez React Router pour la gestion des routes :
 npm install react-router-dom
 ```
 
+Enfin, lancez le serveur de développement Django et React:
+
+```bash
+python manage.py runserver
+npm run dev
+```
+
 ## Conclusion
 
 Vous avez maintenant configuré un projet Django pour le backend et React avec Webpack pour le frontend. Vous pouvez démarrer le développement de votre application en utilisant les outils et les configurations ci-dessus.
